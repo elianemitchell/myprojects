@@ -7,3 +7,6 @@ mosaic1 <- png::readPNG("/Users/eliane/Desktop/firesidelogo.png") %>%
   
 mosaic1 %>% build_mosaic()
 mosaic1 %>% build_instructions()
+
+ggsave("FiresideLegoLogo.png")
+ggsave("FiresideLegoLogoInstructions.png")
