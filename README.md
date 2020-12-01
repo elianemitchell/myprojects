@@ -1,6 +1,6 @@
-Fireside Campaigns Logo in Legos
+## The Fireside Campaigns Logo in Legos! 
+Enjoy!
 
-Visuals for the Fireside Campaign
 
 ![./myprojects/FiresideLegoLogo.png](https://raw.githubusercontent.com/elianemitchell/myprojects/main/FiresideLegoLogo.png)
 
